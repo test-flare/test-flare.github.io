@@ -11,8 +11,15 @@ explanations for different types of flaky behaviour to developers so that they h
 
 ## Project Team
 
-# Phil McMinn (Principal Investigator)
+### Phil McMinn (Principal Investigator)
 
-<p align="center"><img src="phil.jpg" alt="Phil McMinn" width="300"/></p>
+<p align="center"><img src="phil.jpg" alt="Phil McMinn" width="200"/></p>
 
 [Phil McMinn](https://mcminn.info/) is well-known for his work in search-based software engineering (SBSE) and testing. His 2004 survey of search-based test data generation in the STVR journal is the most cited paper in software testing since 1992, while his 2010 IEEE TSE paper comparing search algorithms for test data generation is the most cited paper in software performance since 2010. He was named one of the top 15 most impactful mid-career software engineering researchers worldwide for 2010-2017, and has won seven best/distinguished paper awards at ASE, GECCO, ICST, ISSTA and SSBSE.
+
+### Owain Parry (Research Associate)
+
+<p align="center"><img src="owain.jpg" alt="Phil McMinn" width="200"/></p>
+
+[Owain Parry](https://o-parry.github.io/) is an early-career researcher with a proven track record in the field of flaky tests. He received his PhD in 2023 with a thesis on flaky tests titled *Understanding and Mitigating Flaky Software Test Cases*. He is the first author of six published papers on the topic,
+including a systematic literature survey of flaky tests that appeared in the ACM TOSEM journal.
