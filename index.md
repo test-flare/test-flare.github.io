@@ -1,1 +1,4 @@
-Hi
+The cost of software failures is a huge burden to the worldwide economy. Consequently, software testing contributes to a large proportion of software development effort and cost. *Flaky tests* are a particular strain on software development because they intermittently pass and fail without changes to tests or project code with often non-obvious causes. When flaky tests proliferate, developers may loose faith in their test suites, potentially exposing end-users to the consequences of software failures. Flaky tests are a common occurrence in industry, even for companies with the greatest amount of resources to tackle them.
+
+The Test FLARE project will develop and empirically evaluate techniques capable of automatically reproducing flaky behaviour that is due to the execution
+environment. It will also provide developers with automated, human-readable explanations that help them further understand the reasons for the flaky behaviour.
