@@ -8,3 +8,11 @@ The cost of software failures is a huge burden to the worldwide economy. Consequ
 
 - **Develop automated techniques for explaining the sources of flakiness in code to developers.** We will develop techniques to provide human-understandable
 explanations for different types of flaky behaviour to developers so that they have the information needed to repair/remove flakiness from test suites, and prevent its recurrence in future.
+
+## Project Team
+
+# Phil McMinn (Principal Investigator)
+
+<p align="center"><img src="phil.jpg" alt="Phil McMinn" width="300"/></p>
+
+[Phil McMinn](https://mcminn.info/) is well-known for his work in search-based software engineering (SBSE) and testing. His 2004 survey of search-based test data generation in the STVR journal is the most cited paper in software testing since 1992, while his 2010 IEEE TSE paper comparing search algorithms for test data generation is the most cited paper in software performance since 2010. He was named one of the top 15 most impactful mid-career software engineering researchers worldwide for 2010-2017, and has won seven best/distinguished paper awards at ASE, GECCO, ICST, ISSTA and SSBSE.
