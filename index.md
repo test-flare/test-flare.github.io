@@ -30,12 +30,12 @@ including a systematic literature survey of flaky tests that appeared in the ACM
 
 - [Dr. Michael Hilton](https://www.cs.cmu.edu/~mhilton/) researches software engineering and testing. His papers regularly appear at the top international software engineering conferences including ICSE, ASE, and FSE. He has particular expertise in flaky tests and is one of the most-cited authors on the topic.
 
-- [Dr Gregory Kapfhammer](https://www.gregorykapfhammer.com/)  esearches software engineering and testing and has published over 60 papers, including ones in the IEEE TSE and ACM TOSEM journals, and the ASE, FSE, GECCO, ISSTA, and ICST conferences. He is an Associate Editor of the Journal of Software: Evolution and Process.
+- [Dr Gregory Kapfhammer](https://www.gregorykapfhammer.com/) researches software engineering and testing and has published over 60 papers, including ones in the IEEE TSE and ACM TOSEM journals, and the ASE, FSE, GECCO, ISSTA, and ICST conferences. He is an Associate Editor of the Journal of Software: Evolution and Process.
 
 ### Industrial Partners
 
-- Microsoft
-- Duolingo
-- BJSS
-- Virtuoso (SpotQA)
-- Cirata (WANdisco)
+- [Microsoft](https://www.microsoft.com/)
+- [Duolingo](https://www.duolingo.com/)
+- [BJSS](https://www.bjss.com/)
+- [Virtuoso](https://www.virtuoso.qa/)
+- [Cirata](https://cirata.com/)
